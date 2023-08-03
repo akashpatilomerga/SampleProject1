@@ -6,6 +6,9 @@
       <class name="testClasses.Amazon"/>
       <class name="testClasses.Ajio"/>
       <class name="testClasses.Flipkart"/>
+        <class name="testClasses.NexaNewTest"/>
+          <class name="testClasses.snapdeel"/>
+            <class name="testClasses.meesho"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
