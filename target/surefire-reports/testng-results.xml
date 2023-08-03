@@ -11,12 +11,12 @@
       <![CDATA[Opening Flipkart]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-07-27T16:58:12 IST" name="Suite" finished-at="2023-07-27T16:58:35 IST" duration-ms="22566">
+  <suite started-at="2023-08-03T08:21:10 IST" name="Suite" finished-at="2023-08-03T08:22:33 IST" duration-ms="82307">
     <groups>
     </groups>
-    <test started-at="2023-07-27T16:58:12 IST" name="Test" finished-at="2023-07-27T16:58:35 IST" duration-ms="22566">
+    <test started-at="2023-08-03T08:21:10 IST" name="Test" finished-at="2023-08-03T08:22:33 IST" duration-ms="82307">
       <class name="testClasses.Amazon">
-        <test-method signature="amazonTesting()[pri:0, instance:testClasses.Amazon@2f7298b]" started-at="2023-07-27T16:58:12 IST" name="amazonTesting" finished-at="2023-07-27T16:58:20 IST" duration-ms="7972" status="PASS">
+        <test-method signature="amazonTesting()[pri:0, instance:testClasses.Amazon@2c767a52]" started-at="2023-08-03T08:21:10 IST" name="amazonTesting" finished-at="2023-08-03T08:21:22 IST" duration-ms="11668" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening Amazon]]>
@@ -25,7 +25,7 @@
         </test-method> <!-- amazonTesting -->
       </class> <!-- testClasses.Amazon -->
       <class name="testClasses.Flipkart">
-        <test-method signature="flipkartTesting()[pri:0, instance:testClasses.Flipkart@56620197]" started-at="2023-07-27T16:58:28 IST" name="flipkartTesting" finished-at="2023-07-27T16:58:35 IST" duration-ms="6892" status="PASS">
+        <test-method signature="flipkartTesting()[pri:0, instance:testClasses.Flipkart@188715b5]" started-at="2023-08-03T08:22:16 IST" name="flipkartTesting" finished-at="2023-08-03T08:22:33 IST" duration-ms="17084" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening Flipkart]]>
@@ -34,7 +34,7 @@
         </test-method> <!-- flipkartTesting -->
       </class> <!-- testClasses.Flipkart -->
       <class name="testClasses.Ajio">
-        <test-method signature="ajioTesting()[pri:0, instance:testClasses.Ajio@393671df]" started-at="2023-07-27T16:58:20 IST" name="ajioTesting" finished-at="2023-07-27T16:58:28 IST" duration-ms="7674" status="PASS">
+        <test-method signature="ajioTesting()[pri:0, instance:testClasses.Ajio@2f7298b]" started-at="2023-08-03T08:21:22 IST" name="ajioTesting" finished-at="2023-08-03T08:22:16 IST" duration-ms="53423" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening Ajio]]>
