@@ -11,7 +11,7 @@ public class Ajio {
 	  WebDriver driver = new ChromeDriver();
 	  driver.get("https://www.ajio.com/");
 	  Reporter.log("Opening Ajio", true);
-	  System.out.println("hbscjhcbj");
+	  System.out.println("Hi My name is Namita");
 	  System.out.println("kljdsifjweof");
 	  driver.quit();
   }
